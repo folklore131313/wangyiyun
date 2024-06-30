@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>music/Hope ls the Thing With Feathers.mp3</file>
+        <file>music/If I Can Stop One Heart From Breaking.mp3</file>
+        <file>music/Sway to My Beat in Cosmos.mp3</file>
+    </qresource>
+</RCC>

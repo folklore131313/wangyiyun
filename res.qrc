@@ -1,0 +1,60 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>wyy res/1140px19.jpg</file>
+        <file>wyy res/add.png</file>
+        <file>wyy res/biao.png</file>
+        <file>wyy res/ci1.png</file>
+        <file>wyy res/ci2.png</file>
+        <file>wyy res/duanxin.png</file>
+        <file>wyy res/e_yinpin.png</file>
+        <file>wyy res/e_yinpin2.png</file>
+        <file>wyy res/exit.png</file>
+        <file>wyy res/find.png</file>
+        <file>wyy res/heart.png</file>
+        <file>wyy res/hua.png</file>
+        <file>wyy res/left.png</file>
+        <file>wyy res/ls.png</file>
+        <file>wyy res/max.png</file>
+        <file>wyy res/min.png</file>
+        <file>wyy res/next.png</file>
+        <file>wyy res/nosie.png</file>
+        <file>wyy res/play.png</file>
+        <file>wyy res/red_heart.png</file>
+        <file>wyy res/red_next.png</file>
+        <file>wyy res/red_nos.png</file>
+        <file>wyy res/red_previous.png</file>
+        <file>wyy res/right.png</file>
+        <file>wyy res/shang.png</file>
+        <file>wyy res/shezhi.png</file>
+        <file>wyy res/shunx.png</file>
+        <file>wyy res/shunx2.png</file>
+        <file>wyy res/stop.png</file>
+        <file>wyy res/xun1.png</file>
+        <file>wyy res/xun2.png</file>
+        <file>wyy res/VCG41N1399616987.png</file>
+        <file>wyy res/coin.png</file>
+        <file>wyy res/head.jpeg</file>
+        <file>wyy res/inside.jpg</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>music/Jpg/00.png</file>
+        <file>music/Jpg/10.png</file>
+        <file>music/Jpg/11.png</file>
+        <file>music/Jpg/20.png</file>
+        <file>music/Jpg/21.png</file>
+        <file>music/Jpg/30.png</file>
+        <file>music/Jpg/31.png</file>
+        <file>music/Jpg/40.png</file>
+        <file>music/Jpg/41.png</file>
+        <file>music/Jpg/50.png</file>
+        <file>music/Jpg/51.png</file>
+        <file>music/Jpg/01.png</file>
+        <file>wyy res/son.png</file>
+        <file>wyy res/m.png</file>
+        <file>wyy res/QQ2023070119263222.png</file>
+        <file>wyy res/Robot.png</file>
+        <file>wyy res/music.png</file>
+        <file>wyy res/int.png</file>
+        <file>wyy res/24_student.png</file>
+    </qresource>
+</RCC>
